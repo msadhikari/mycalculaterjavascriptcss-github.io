@@ -1,0 +1,43 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.card {
+    width:250px;
+    height:400px;
+    margin:auto;
+    margin-top:30px;
+    background-color:#95a5a6;
+    box-shadow: 5px 10px 18px #888888;
+}
+.calform {
+    margin:auto;
+    cursor:pointer;
+  
+}
+#answer {
+width:200px;
+margin-top:3px;
+color:rgb(54, 54, 150);
+text-align:center;
+background-color:#9b59b6;
+
+}
+
+#number {
+    padding:2px;
+     margin-left:3px;
+     font-size:20px;
+     width:60px;
+     color:white;
+     background-color:#16a085;
+}
+
+#clear {
+    margin-left:50px;
+    width:100px;
+    margin-bottom:3px;
+    color:white;
+    background-color: #3498db;
+}
